@@ -3,7 +3,7 @@ QUIZ GAME
 Welcome to the Fun Quiz Game – a lightweight and interactive quiz game built using HTML, CSS, and JavaScript. This project is a beginner-friendly implementation to demonstrate basic DOM manipulation, event handling, and timer logic in JavaScript.
 
 #🌟 Features
-⏰ Countdown Timer (30 seconds)
+⏰ Countdown Timer (15 seconds)
 ✅ Multiple Choice Questions
 🧠 Instant Answer Checking
 🎉 Final Score Display
