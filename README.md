@@ -24,7 +24,7 @@ JavaScript (Vanilla JS)
 
 
 💡 How It Works
-When the page loads, the first question appears, and the timer starts counting down from 30 seconds.
+When the page loads, the first question appears, and the timer starts counting down from 15 seconds.
 Users select an answer by clicking on one of the multiple-choice options.
 After each selection, the next question loads automatically.
 Once all questions are answered or the timer reaches 0, the final score is shown.
